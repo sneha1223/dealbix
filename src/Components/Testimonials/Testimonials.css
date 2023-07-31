@@ -1,0 +1,49 @@
+.test-heading{
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: left;
+    padding-top: 10rem;
+}
+
+.quotes {
+    padding-top: 20px;
+    border: none;
+    height: 15rem;
+    text-align: start;
+    font-style: italic;
+    box-shadow: 0px 5px 15px 0px #c9d2da;
+}
+
+.quotes p{
+    padding: 15px 15px 15px 15px;
+    height: 9rem;
+}
+
+.round-pic {
+    margin-left: 15px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+.names {
+  color: rgb(11, 90, 121);
+}
+
+.app-ad {
+    margin-top: 40px;
+    text-align: start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.app {
+    width: 190px;
+}
