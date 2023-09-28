@@ -1,0 +1,11 @@
+.similar-ads {
+    text-align: start;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.single-link {
+    text-decoration: none;
+}

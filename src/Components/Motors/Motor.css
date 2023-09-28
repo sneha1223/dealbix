@@ -12,6 +12,13 @@
     position: absolute;
     top: 27%;
     left: 30%;
+    color: white;
+}
+@media (max-width: 468px) {
+   .img-heading {
+    font-size: 14px;
+    margin-top: 2px;
+}
 }
 
 button p {
@@ -24,15 +31,28 @@ button p {
     width: 100%;
     overflow: hidden;
 }
-
+@media (max-width: 468px) {
+    button p {
+     font-size: 12px;
+     font-weight: 600;
+    }
+ }
 button h4 {
     font-size: 24px;
     font-weight: 400;
     line-height: normal;
 }
-
+@media (max-width: 468px) {
+    button h4 {
+     font-size: 20px;
+     font-weight: 400;
+    }
+ }
 .button-grp {
     padding-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
 button.buttons {
@@ -41,10 +61,16 @@ button.buttons {
     color: black;
     width: 200px;
     height: 80px;
-    margin-left: 10px;
-    box-shadow: 2px 2px 5px 5px #f3eded;
+    margin-left: 15px;
+    box-shadow: 2px 2px 2px 3px #e7e5e5;
 }
-
+@media (max-width: 468px) {
+    button.buttons {
+     margin-top: 20px;
+     width: 150px;
+     height: 80px;
+    }
+ }
 button.buttons:hover {
     background-color:rgb(240, 235, 235) ;
     color: black;

@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "mtr_body_type_id": 3,
+            "mtr_body_type_name": "Hard Top Convertible",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 4,
+            "mtr_body_type_name": "Hatchback",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 5,
+            "mtr_body_type_name": "Pick Up Truck",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 6,
+            "mtr_body_type_name": "Sedan",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 7,
+            "mtr_body_type_name": "Soft Top Convertible",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 8,
+            "mtr_body_type_name": "Sports Car",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 9,
+            "mtr_body_type_name": "SUV",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 10,
+            "mtr_body_type_name": "Utility Truck",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": "2022-08-20T00:00:00.000000Z"
+        },
+        {
+            "mtr_body_type_id": 11,
+            "mtr_body_type_name": "Van",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 13,
+            "mtr_body_type_name": "Other",
+            "created_at": "2018-05-16T00:00:00.000000Z",
+            "updated_at": null
+        },
+        {
+            "mtr_body_type_id": 22,
+            "mtr_body_type_name": "Coupe",
+            "created_at": "2018-09-05T00:00:00.000000Z",
+            "updated_at": "2018-09-05T00:00:00.000000Z"
+        },
+        {
+            "mtr_body_type_id": 30,
+            "mtr_body_type_name": "Wagon",
+            "created_at": "2022-09-14T00:00:00.000000Z",
+            "updated_at": "2022-09-14T00:00:00.000000Z"
+        },
+        {
+            "mtr_body_type_id": 31,
+            "mtr_body_type_name": "Crossover",
+            "created_at": "2022-09-14T00:00:00.000000Z",
+            "updated_at": "2022-09-14T00:00:00.000000Z"
+        }
+    ],
+    "success": true,
+    "messages": []
+}

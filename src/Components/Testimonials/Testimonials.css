@@ -14,7 +14,13 @@
     font-style: italic;
     box-shadow: 0px 5px 15px 0px #c9d2da;
 }
-
+@media (max-width: 468px) {
+   .quotes {
+     margin-top: 20px;
+     /* width: 150px;
+     height: 80px; */
+    }
+ }
 .quotes p{
     padding: 15px 15px 15px 15px;
     height: 9rem;
@@ -34,6 +40,8 @@
 
 .names {
   color: rgb(11, 90, 121);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
 }
 
 .app-ad {
